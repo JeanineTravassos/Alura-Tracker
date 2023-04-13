@@ -1,0 +1,81 @@
+{
+  "projetos": [
+    {
+      "nome": "Vue.js",
+      "id": 1
+    },
+    {
+      "nome": "TypeScript",
+      "id": 2
+    },
+    {
+      "nome": "Angular",
+      "id": 3
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "duracaoEmSegundos": 120,
+      "descricao": "Configuração do ambiente",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker"
+      }
+    },
+    {
+      "duracaoEmSegundos": 2,
+      "descricao": "Refaturação do Vuex",
+      "projeto": {
+        "id": 3,
+        "nome": "Vue.JS"
+      },
+      "id": 2
+    },
+    {
+      "duracaoEmSegundos": 3,
+      "descricao": "Estudando vue",
+      "projeto": {
+        "id": 3,
+        "nome": "Vue.JS"
+      },
+      "id": 3
+    },
+    {
+      "duracaoEmSegundos": 2,
+      "descricao": "Versão 3.0",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker"
+      },
+      "id": 4
+    },
+    {
+      "duracaoEmSegundos": 5,
+      "descricao": "Projeto 4.0",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker"
+      },
+      "id": 5
+    },
+    {
+      "duracaoEmSegundos": 3,
+      "descricao": "Trackerr",
+      "projeto": {
+        "nome": "Projeto pessoal",
+        "id": 4
+      },
+      "id": 6
+    },
+    {
+      "duracaoEmSegundos": 3,
+      "descricao": "Iniciando os estudos",
+      "projeto": {
+        "nome": "Angular",
+        "id": 3
+      },
+      "id": 7
+    }
+  ]
+}

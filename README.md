@@ -1,2 +1,26 @@
-# Alura-Tracker
-Projeto desenvolvido com vue e ts durante aula do curso Alura
+# alura-tracker
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+http://192.168.0.5:8080/
